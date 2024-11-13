@@ -1,0 +1,31 @@
+.blinking{
+    animation:blinkingText 1.9s infinite; 
+}
+@keyframes blinkingText{
+    0%{     color: yellowgreen;    }
+    49%{    color: yellowgreen; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: cyan;    }
+}
+
+
+
+.side span 
+{
+    float: right;
+    margin-top: -1px;
+    color: #590696;
+    font-size: 30px;
+    padding-left: 39px;
+    background-color: white;
+    padding-bottom: 1px;
+
+
+    border-bottom-style: groove;
+    border-bottom-color: #FBCB0A;
+    border-bottom-width: 5px;
+    border-top-left-radius: 15px;
+    
+}
+

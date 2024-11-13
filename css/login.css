@@ -1,0 +1,75 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: rgb(189, 189, 255);
+}
+form {
+   border: 3px solid #f1f1f1;
+   background-color: rgb(228, 228, 228);
+   margin: 10px;
+}
+h1 {
+   text-align: center;
+}
+input[type="text"],
+input[type="password"] {
+   width: 20%;
+   padding: 0px;
+   margin: 0px;
+   display: inline-block;
+   border: 1px solid #ccc;
+   box-sizing: border-box;
+   font-size: 20px;
+}
+
+
+label {
+   font-size: 30px;
+}
+button {
+   font-weight: bold;
+   font-family: monospace, sans-serif, serif;
+   font-size: 20px;
+   background-color: #4caf50;
+   color: white;
+   padding: 10px;
+   margin: 8px 0;
+   border: none;
+   cursor: pointer;
+   width: 100%;
+}
+button:hover {
+   opacity: 0.8;
+}
+.cancelbtn {
+   width: auto;
+   padding: 10px 18px;
+   background-color: #f44336;
+}
+.profilePic {
+   text-align: center;
+   margin: 24px 0 12px 0;
+}
+img.avatar {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+}
+.formFields {
+   padding: 10px;
+}
+span.pass {
+   float: right;
+   padding-top: 16px;
+}
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 100px) {
+   span.pass {
+      display: block;
+      float: none;
+   }
+   .cancelbtn {
+      width: 100%;
+   }
+}
+
+

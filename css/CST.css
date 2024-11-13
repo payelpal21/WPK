@@ -1,0 +1,108 @@
+.cst {
+  background-color: lightgrey;
+  width: 300px;
+  border: 3px solid green;
+  padding: 50px;
+  margin: 15px;
+  float: right;
+
+  border-top-style: hidden;
+  border-bottom-style: hidden;
+  border-radius: 10px;
+}
+
+.cst h2
+{
+  color:#242F9B;
+  margin-top: 0px;
+
+}
+
+
+.electro {
+  background-color: lightgrey;
+  width: 300px;
+  border: 3px solid green;
+  padding: 50px;
+  margin: 15px;
+  float: right;
+
+  border-top-style: hidden;
+  border-bottom-style: hidden;
+  border-radius: 10px;
+}
+
+.electro h2
+{
+  color:#242F9B;
+  margin-top: 0px;
+
+}
+
+
+
+.arch {
+  background-color: lightgrey;
+  width: 300px;
+  border: 3px solid green;
+  padding: 50px;
+  margin: 15px;
+  float: right;
+
+  border-top-style: hidden;
+  border-bottom-style: hidden;
+  border-radius: 10px;
+}
+
+.arch h2
+{
+  color:#242F9B;
+  margin-top: 0px;
+
+}
+
+
+
+
+.anim {
+  background-color: lightgrey;
+  width: 300px;
+  border: 3px solid green;
+  padding: 50px;
+  
+  float: left;
+  margin-left: 37px;
+
+  border-top-style: hidden;
+  border-bottom-style: hidden;
+  border-radius: 10px;
+}
+
+.anim h2
+{
+  color:#242F9B;
+  margin-top: 0px;
+
+}
+
+
+
+.offic {
+  background-color: lightgrey;
+  width: 300px;
+  border: 3px solid green;
+  padding: 50px;
+  margin-left: 37px;
+  float: left;
+
+  border-top-style: hidden;
+  border-bottom-style: hidden;
+  border-radius: 10px;
+}
+
+.offic h2
+{
+  color:#242F9B;
+  margin-top: 0px;
+
+}
